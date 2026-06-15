@@ -1,0 +1,14 @@
+{
+  "name": "hono",
+  "type": "module",
+  "dependencies": {
+    "hono": "^4.12.23",
+    "mongodb": "^7.3.0",
+    "mongoose": "^9.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.17",
+    "tsx": "^4.7.1",
+    "typescript": "^5.8.3"
+  }
+}
